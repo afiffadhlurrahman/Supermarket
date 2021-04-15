@@ -111,7 +111,7 @@ namespace Supermarket
             {
                 if (prodIdTb.Text == "")
                 {
-                    MessageBox.Show("Select the category");
+                    MessageBox.Show("Select the product");
                 }
                 else
                 {
@@ -137,6 +137,13 @@ namespace Supermarket
             prodQtyTb.Text = ProdDGV.SelectedRows[0].Cells[2].Value.ToString();
             prodPriceTb.Text = ProdDGV.SelectedRows[0].Cells[3].Value.ToString();
             CatCb.SelectedValue = ProdDGV.SelectedRows[0].Cells[4].Value.ToString();
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SellerForm seller = new SellerForm();
+            seller.Show();
+            this.Hide();
         }
     }
 }

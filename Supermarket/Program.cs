@@ -16,7 +16,7 @@ namespace Supermarket
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new ProductForm());
+            Application.Run(new SellerForm());
         }
     }
 }
