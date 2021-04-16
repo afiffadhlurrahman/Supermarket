@@ -23,7 +23,7 @@ namespace Supermarket
             Application.Exit();
         }
 
-        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\afiff\OneDrive\Documents\smarketdb.mdf;Integrated Security=True;Connect Timeout=30");
+        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\LENOVO\Documents\smarketdb.mdf;Integrated Security=True;Connect Timeout=30");
         private void fillcombo()
         {
             Con.Open();
@@ -39,6 +39,8 @@ namespace Supermarket
         }
         private void ProductForm_Load(object sender, EventArgs e)
         {
+            // TODO: This line of code loads data into the 'smarketdbDataSet.CategoryTbl' table. You can move, or remove it, as needed.
+            this.categoryTblTableAdapter.Fill(this.smarketdbDataSet.CategoryTbl);
             fillcombo();
             populate();
         }
@@ -144,6 +146,37 @@ namespace Supermarket
             SellerForm seller = new SellerForm();
             seller.Show();
             this.Hide();
+        }
+
+        private void panel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectionChangeCommitted(object sender, EventArgs e)
+        {
+            Con.Open();
+            string query = "select * from ProductTbl where ProdCat like" + "'" + comboBox1.SelectedValue + "'";;
+            SqlDataAdapter sda = new SqlDataAdapter(query, Con);
+            SqlCommandBuilder builder = new SqlCommandBuilder(sda);
+            var ds = new DataSet();
+            sda.Fill(ds);
+            ProdDGV.DataSource = ds.Tables[0];
+            Con.Close();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            SellingForm selling = new SellingForm();
+            selling.Show();
+            this.Hide();
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 login = new Form1();
+            login.Show();
         }
     }
 }

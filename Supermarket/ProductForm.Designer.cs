@@ -28,26 +28,27 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle11 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle12 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ProductForm));
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties1 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties2 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties3 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties4 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties5 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties6 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties7 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties8 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties9 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties10 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties11 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties12 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties13 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties14 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties15 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
-            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties16 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties49 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties50 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties51 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties52 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties53 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties54 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties55 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties56 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties57 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties58 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties59 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties60 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties61 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties62 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties63 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
+            Bunifu.UI.WinForms.BunifuTextBox.StateProperties stateProperties64 = new Bunifu.UI.WinForms.BunifuTextBox.StateProperties();
             this.button1 = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
             this.button8 = new System.Windows.Forms.Button();
@@ -68,10 +69,15 @@
             this.label2 = new System.Windows.Forms.Label();
             this.label1 = new System.Windows.Forms.Label();
             this.button2 = new System.Windows.Forms.Button();
-            this.button3 = new System.Windows.Forms.Button();
             this.button5 = new System.Windows.Forms.Button();
+            this.smarketdbDataSet = new Supermarket.smarketdbDataSet();
+            this.categoryTblBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.categoryTblTableAdapter = new Supermarket.smarketdbDataSetTableAdapters.CategoryTblTableAdapter();
+            this.label7 = new System.Windows.Forms.Label();
             this.panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ProdDGV)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.smarketdbDataSet)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.categoryTblBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // button1
@@ -80,9 +86,10 @@
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.Color.ForestGreen;
-            this.button1.Location = new System.Drawing.Point(12, 112);
+            this.button1.Location = new System.Drawing.Point(16, 138);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(101, 45);
+            this.button1.Size = new System.Drawing.Size(135, 55);
             this.button1.TabIndex = 0;
             this.button1.Text = "Sellers";
             this.button1.UseVisualStyleBackColor = true;
@@ -108,10 +115,12 @@
             this.panel1.Controls.Add(this.prodIdTb);
             this.panel1.Controls.Add(this.label2);
             this.panel1.Controls.Add(this.label1);
-            this.panel1.Location = new System.Drawing.Point(119, 46);
+            this.panel1.Location = new System.Drawing.Point(159, 57);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(814, 532);
+            this.panel1.Size = new System.Drawing.Size(1085, 655);
             this.panel1.TabIndex = 1;
+            this.panel1.Paint += new System.Windows.Forms.PaintEventHandler(this.panel1_Paint);
             // 
             // button8
             // 
@@ -120,9 +129,10 @@
             this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button8.ForeColor = System.Drawing.Color.ForestGreen;
-            this.button8.Location = new System.Drawing.Point(639, 76);
+            this.button8.Location = new System.Drawing.Point(852, 94);
+            this.button8.Margin = new System.Windows.Forms.Padding(4);
             this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(88, 28);
+            this.button8.Size = new System.Drawing.Size(117, 34);
             this.button8.TabIndex = 16;
             this.button8.Text = "REFRESH";
             this.button8.UseVisualStyleBackColor = false;
@@ -134,48 +144,52 @@
             this.comboBox1.ForeColor = System.Drawing.Color.ForestGreen;
             this.comboBox1.FormattingEnabled = true;
             this.comboBox1.Items.AddRange(new object[] {
-            "ADMIN",
-            "SELLER"});
-            this.comboBox1.Location = new System.Drawing.Point(446, 76);
-            this.comboBox1.Margin = new System.Windows.Forms.Padding(8);
+            "Elektronik",
+            "Food",
+            "Drinks"});
+            this.comboBox1.Location = new System.Drawing.Point(595, 94);
+            this.comboBox1.Margin = new System.Windows.Forms.Padding(11, 10, 11, 10);
             this.comboBox1.Name = "comboBox1";
-            this.comboBox1.Size = new System.Drawing.Size(182, 28);
+            this.comboBox1.Size = new System.Drawing.Size(241, 33);
             this.comboBox1.TabIndex = 15;
             this.comboBox1.Text = "Select Category";
+            this.comboBox1.SelectionChangeCommitted += new System.EventHandler(this.comboBox1_SelectionChangeCommitted);
             // 
             // ProdDGV
             // 
-            dataGridViewCellStyle1.BackColor = System.Drawing.Color.White;
-            this.ProdDGV.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle10.BackColor = System.Drawing.Color.White;
+            this.ProdDGV.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle10;
             this.ProdDGV.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.ProdDGV.BackgroundColor = System.Drawing.Color.White;
             this.ProdDGV.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.ProdDGV.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.SingleHorizontal;
             this.ProdDGV.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle2.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle2.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle2.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle2.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.ProdDGV.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle11.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle11.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(88)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle11.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle11.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle11.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle11.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle11.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.ProdDGV.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle11;
             this.ProdDGV.ColumnHeadersHeight = 25;
-            dataGridViewCellStyle3.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle3.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle3.Font = new System.Drawing.Font("Segoe UI", 10.5F);
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle3.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            dataGridViewCellStyle3.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
-            dataGridViewCellStyle3.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.ProdDGV.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle12.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle12.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle12.Font = new System.Drawing.Font("Segoe UI", 10.5F);
+            dataGridViewCellStyle12.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle12.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
+            dataGridViewCellStyle12.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(71)))), ((int)(((byte)(69)))), ((int)(((byte)(94)))));
+            dataGridViewCellStyle12.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.ProdDGV.DefaultCellStyle = dataGridViewCellStyle12;
             this.ProdDGV.EnableHeadersVisualStyles = false;
             this.ProdDGV.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(231)))), ((int)(((byte)(229)))), ((int)(((byte)(255)))));
-            this.ProdDGV.Location = new System.Drawing.Point(320, 111);
+            this.ProdDGV.Location = new System.Drawing.Point(427, 137);
+            this.ProdDGV.Margin = new System.Windows.Forms.Padding(4);
             this.ProdDGV.Name = "ProdDGV";
             this.ProdDGV.RowHeadersVisible = false;
+            this.ProdDGV.RowHeadersWidth = 51;
             this.ProdDGV.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.ProdDGV.Size = new System.Drawing.Size(479, 407);
+            this.ProdDGV.Size = new System.Drawing.Size(639, 501);
             this.ProdDGV.TabIndex = 14;
             this.ProdDGV.Theme = Guna.UI2.WinForms.Enums.DataGridViewPresetThemes.Default;
             this.ProdDGV.ThemeStyle.AlternatingRowsStyle.BackColor = System.Drawing.Color.White;
@@ -208,9 +222,10 @@
             this.ProdDelBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ProdDelBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ProdDelBtn.ForeColor = System.Drawing.Color.ForestGreen;
-            this.ProdDelBtn.Location = new System.Drawing.Point(199, 341);
+            this.ProdDelBtn.Location = new System.Drawing.Point(265, 420);
+            this.ProdDelBtn.Margin = new System.Windows.Forms.Padding(4);
             this.ProdDelBtn.Name = "ProdDelBtn";
-            this.ProdDelBtn.Size = new System.Drawing.Size(101, 32);
+            this.ProdDelBtn.Size = new System.Drawing.Size(135, 39);
             this.ProdDelBtn.TabIndex = 13;
             this.ProdDelBtn.Text = "DELETE";
             this.ProdDelBtn.UseVisualStyleBackColor = false;
@@ -223,9 +238,10 @@
             this.ProdEditBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ProdEditBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ProdEditBtn.ForeColor = System.Drawing.Color.ForestGreen;
-            this.ProdEditBtn.Location = new System.Drawing.Point(107, 341);
+            this.ProdEditBtn.Location = new System.Drawing.Point(143, 420);
+            this.ProdEditBtn.Margin = new System.Windows.Forms.Padding(4);
             this.ProdEditBtn.Name = "ProdEditBtn";
-            this.ProdEditBtn.Size = new System.Drawing.Size(79, 32);
+            this.ProdEditBtn.Size = new System.Drawing.Size(105, 39);
             this.ProdEditBtn.TabIndex = 12;
             this.ProdEditBtn.Text = "EDIT";
             this.ProdEditBtn.UseVisualStyleBackColor = false;
@@ -238,9 +254,10 @@
             this.ProdAddBtn.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.ProdAddBtn.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.ProdAddBtn.ForeColor = System.Drawing.Color.ForestGreen;
-            this.ProdAddBtn.Location = new System.Drawing.Point(17, 341);
+            this.ProdAddBtn.Location = new System.Drawing.Point(23, 420);
+            this.ProdAddBtn.Margin = new System.Windows.Forms.Padding(4);
             this.ProdAddBtn.Name = "ProdAddBtn";
-            this.ProdAddBtn.Size = new System.Drawing.Size(76, 32);
+            this.ProdAddBtn.Size = new System.Drawing.Size(101, 39);
             this.ProdAddBtn.TabIndex = 11;
             this.ProdAddBtn.Text = "ADD";
             this.ProdAddBtn.UseVisualStyleBackColor = false;
@@ -255,10 +272,10 @@
             this.CatCb.Items.AddRange(new object[] {
             "ADMIN",
             "SELLER"});
-            this.CatCb.Location = new System.Drawing.Point(118, 289);
-            this.CatCb.Margin = new System.Windows.Forms.Padding(8);
+            this.CatCb.Location = new System.Drawing.Point(157, 356);
+            this.CatCb.Margin = new System.Windows.Forms.Padding(11, 10, 11, 10);
             this.CatCb.Name = "CatCb";
-            this.CatCb.Size = new System.Drawing.Size(182, 28);
+            this.CatCb.Size = new System.Drawing.Size(241, 33);
             this.CatCb.TabIndex = 10;
             this.CatCb.Text = "Select Category";
             // 
@@ -268,9 +285,10 @@
             this.label6.BackColor = System.Drawing.Color.ForestGreen;
             this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.ForeColor = System.Drawing.Color.White;
-            this.label6.Location = new System.Drawing.Point(13, 297);
+            this.label6.Location = new System.Drawing.Point(17, 366);
+            this.label6.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(99, 20);
+            this.label6.Size = new System.Drawing.Size(124, 25);
             this.label6.TabIndex = 9;
             this.label6.Text = "CATEGORY";
             // 
@@ -302,33 +320,34 @@
             this.prodPriceTb.IconRight = null;
             this.prodPriceTb.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
             this.prodPriceTb.Lines = new string[0];
-            this.prodPriceTb.Location = new System.Drawing.Point(118, 232);
+            this.prodPriceTb.Location = new System.Drawing.Point(157, 286);
+            this.prodPriceTb.Margin = new System.Windows.Forms.Padding(4);
             this.prodPriceTb.MaxLength = 32767;
             this.prodPriceTb.MinimumSize = new System.Drawing.Size(1, 1);
             this.prodPriceTb.Modified = false;
             this.prodPriceTb.Multiline = false;
             this.prodPriceTb.Name = "prodPriceTb";
-            stateProperties1.BorderColor = System.Drawing.Color.DodgerBlue;
-            stateProperties1.FillColor = System.Drawing.Color.Empty;
-            stateProperties1.ForeColor = System.Drawing.Color.Empty;
-            stateProperties1.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodPriceTb.OnActiveState = stateProperties1;
-            stateProperties2.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
-            stateProperties2.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
-            stateProperties2.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
-            stateProperties2.PlaceholderForeColor = System.Drawing.Color.DarkGray;
-            this.prodPriceTb.OnDisabledState = stateProperties2;
-            stateProperties3.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
-            stateProperties3.FillColor = System.Drawing.Color.Empty;
-            stateProperties3.ForeColor = System.Drawing.Color.Empty;
-            stateProperties3.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodPriceTb.OnHoverState = stateProperties3;
-            stateProperties4.BorderColor = System.Drawing.Color.Transparent;
-            stateProperties4.FillColor = System.Drawing.Color.White;
-            stateProperties4.ForeColor = System.Drawing.Color.ForestGreen;
-            stateProperties4.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodPriceTb.OnIdleState = stateProperties4;
-            this.prodPriceTb.Padding = new System.Windows.Forms.Padding(3);
+            stateProperties49.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties49.FillColor = System.Drawing.Color.Empty;
+            stateProperties49.ForeColor = System.Drawing.Color.Empty;
+            stateProperties49.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodPriceTb.OnActiveState = stateProperties49;
+            stateProperties50.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties50.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties50.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties50.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.prodPriceTb.OnDisabledState = stateProperties50;
+            stateProperties51.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties51.FillColor = System.Drawing.Color.Empty;
+            stateProperties51.ForeColor = System.Drawing.Color.Empty;
+            stateProperties51.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodPriceTb.OnHoverState = stateProperties51;
+            stateProperties52.BorderColor = System.Drawing.Color.Transparent;
+            stateProperties52.FillColor = System.Drawing.Color.White;
+            stateProperties52.ForeColor = System.Drawing.Color.ForestGreen;
+            stateProperties52.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodPriceTb.OnIdleState = stateProperties52;
+            this.prodPriceTb.Padding = new System.Windows.Forms.Padding(4);
             this.prodPriceTb.PasswordChar = '\0';
             this.prodPriceTb.PlaceholderForeColor = System.Drawing.Color.DarkGray;
             this.prodPriceTb.PlaceholderText = "Enter product price";
@@ -338,7 +357,7 @@
             this.prodPriceTb.SelectionLength = 0;
             this.prodPriceTb.SelectionStart = 0;
             this.prodPriceTb.ShortcutsEnabled = true;
-            this.prodPriceTb.Size = new System.Drawing.Size(182, 29);
+            this.prodPriceTb.Size = new System.Drawing.Size(243, 36);
             this.prodPriceTb.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
             this.prodPriceTb.TabIndex = 8;
             this.prodPriceTb.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -355,9 +374,10 @@
             this.label5.BackColor = System.Drawing.Color.ForestGreen;
             this.label5.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label5.ForeColor = System.Drawing.Color.White;
-            this.label5.Location = new System.Drawing.Point(13, 241);
+            this.label5.Location = new System.Drawing.Point(17, 297);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(58, 20);
+            this.label5.Size = new System.Drawing.Size(71, 25);
             this.label5.TabIndex = 7;
             this.label5.Text = "PRICE";
             // 
@@ -389,33 +409,34 @@
             this.prodQtyTb.IconRight = null;
             this.prodQtyTb.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
             this.prodQtyTb.Lines = new string[0];
-            this.prodQtyTb.Location = new System.Drawing.Point(118, 181);
+            this.prodQtyTb.Location = new System.Drawing.Point(157, 223);
+            this.prodQtyTb.Margin = new System.Windows.Forms.Padding(4);
             this.prodQtyTb.MaxLength = 32767;
             this.prodQtyTb.MinimumSize = new System.Drawing.Size(1, 1);
             this.prodQtyTb.Modified = false;
             this.prodQtyTb.Multiline = false;
             this.prodQtyTb.Name = "prodQtyTb";
-            stateProperties5.BorderColor = System.Drawing.Color.DodgerBlue;
-            stateProperties5.FillColor = System.Drawing.Color.Empty;
-            stateProperties5.ForeColor = System.Drawing.Color.Empty;
-            stateProperties5.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodQtyTb.OnActiveState = stateProperties5;
-            stateProperties6.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
-            stateProperties6.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
-            stateProperties6.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
-            stateProperties6.PlaceholderForeColor = System.Drawing.Color.DarkGray;
-            this.prodQtyTb.OnDisabledState = stateProperties6;
-            stateProperties7.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
-            stateProperties7.FillColor = System.Drawing.Color.Empty;
-            stateProperties7.ForeColor = System.Drawing.Color.Empty;
-            stateProperties7.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodQtyTb.OnHoverState = stateProperties7;
-            stateProperties8.BorderColor = System.Drawing.Color.Transparent;
-            stateProperties8.FillColor = System.Drawing.Color.White;
-            stateProperties8.ForeColor = System.Drawing.Color.ForestGreen;
-            stateProperties8.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodQtyTb.OnIdleState = stateProperties8;
-            this.prodQtyTb.Padding = new System.Windows.Forms.Padding(3);
+            stateProperties53.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties53.FillColor = System.Drawing.Color.Empty;
+            stateProperties53.ForeColor = System.Drawing.Color.Empty;
+            stateProperties53.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodQtyTb.OnActiveState = stateProperties53;
+            stateProperties54.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties54.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties54.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties54.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.prodQtyTb.OnDisabledState = stateProperties54;
+            stateProperties55.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties55.FillColor = System.Drawing.Color.Empty;
+            stateProperties55.ForeColor = System.Drawing.Color.Empty;
+            stateProperties55.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodQtyTb.OnHoverState = stateProperties55;
+            stateProperties56.BorderColor = System.Drawing.Color.Transparent;
+            stateProperties56.FillColor = System.Drawing.Color.White;
+            stateProperties56.ForeColor = System.Drawing.Color.ForestGreen;
+            stateProperties56.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodQtyTb.OnIdleState = stateProperties56;
+            this.prodQtyTb.Padding = new System.Windows.Forms.Padding(4);
             this.prodQtyTb.PasswordChar = '\0';
             this.prodQtyTb.PlaceholderForeColor = System.Drawing.Color.DarkGray;
             this.prodQtyTb.PlaceholderText = "Enter quantity of product";
@@ -425,7 +446,7 @@
             this.prodQtyTb.SelectionLength = 0;
             this.prodQtyTb.SelectionStart = 0;
             this.prodQtyTb.ShortcutsEnabled = true;
-            this.prodQtyTb.Size = new System.Drawing.Size(182, 29);
+            this.prodQtyTb.Size = new System.Drawing.Size(243, 36);
             this.prodQtyTb.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
             this.prodQtyTb.TabIndex = 6;
             this.prodQtyTb.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -442,9 +463,10 @@
             this.label4.BackColor = System.Drawing.Color.ForestGreen;
             this.label4.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label4.ForeColor = System.Drawing.Color.White;
-            this.label4.Location = new System.Drawing.Point(13, 190);
+            this.label4.Location = new System.Drawing.Point(17, 234);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(89, 20);
+            this.label4.Size = new System.Drawing.Size(114, 25);
             this.label4.TabIndex = 5;
             this.label4.Text = "QUANTITY";
             // 
@@ -476,33 +498,34 @@
             this.prodNameTb.IconRight = null;
             this.prodNameTb.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
             this.prodNameTb.Lines = new string[0];
-            this.prodNameTb.Location = new System.Drawing.Point(118, 132);
+            this.prodNameTb.Location = new System.Drawing.Point(157, 162);
+            this.prodNameTb.Margin = new System.Windows.Forms.Padding(4);
             this.prodNameTb.MaxLength = 32767;
             this.prodNameTb.MinimumSize = new System.Drawing.Size(1, 1);
             this.prodNameTb.Modified = false;
             this.prodNameTb.Multiline = false;
             this.prodNameTb.Name = "prodNameTb";
-            stateProperties9.BorderColor = System.Drawing.Color.DodgerBlue;
-            stateProperties9.FillColor = System.Drawing.Color.Empty;
-            stateProperties9.ForeColor = System.Drawing.Color.Empty;
-            stateProperties9.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodNameTb.OnActiveState = stateProperties9;
-            stateProperties10.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
-            stateProperties10.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
-            stateProperties10.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
-            stateProperties10.PlaceholderForeColor = System.Drawing.Color.DarkGray;
-            this.prodNameTb.OnDisabledState = stateProperties10;
-            stateProperties11.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
-            stateProperties11.FillColor = System.Drawing.Color.Empty;
-            stateProperties11.ForeColor = System.Drawing.Color.Empty;
-            stateProperties11.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodNameTb.OnHoverState = stateProperties11;
-            stateProperties12.BorderColor = System.Drawing.Color.Transparent;
-            stateProperties12.FillColor = System.Drawing.Color.White;
-            stateProperties12.ForeColor = System.Drawing.Color.ForestGreen;
-            stateProperties12.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodNameTb.OnIdleState = stateProperties12;
-            this.prodNameTb.Padding = new System.Windows.Forms.Padding(3);
+            stateProperties57.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties57.FillColor = System.Drawing.Color.Empty;
+            stateProperties57.ForeColor = System.Drawing.Color.Empty;
+            stateProperties57.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodNameTb.OnActiveState = stateProperties57;
+            stateProperties58.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties58.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties58.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties58.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.prodNameTb.OnDisabledState = stateProperties58;
+            stateProperties59.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties59.FillColor = System.Drawing.Color.Empty;
+            stateProperties59.ForeColor = System.Drawing.Color.Empty;
+            stateProperties59.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodNameTb.OnHoverState = stateProperties59;
+            stateProperties60.BorderColor = System.Drawing.Color.Transparent;
+            stateProperties60.FillColor = System.Drawing.Color.White;
+            stateProperties60.ForeColor = System.Drawing.Color.ForestGreen;
+            stateProperties60.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodNameTb.OnIdleState = stateProperties60;
+            this.prodNameTb.Padding = new System.Windows.Forms.Padding(4);
             this.prodNameTb.PasswordChar = '\0';
             this.prodNameTb.PlaceholderForeColor = System.Drawing.Color.DarkGray;
             this.prodNameTb.PlaceholderText = "Enter product name";
@@ -512,7 +535,7 @@
             this.prodNameTb.SelectionLength = 0;
             this.prodNameTb.SelectionStart = 0;
             this.prodNameTb.ShortcutsEnabled = true;
-            this.prodNameTb.Size = new System.Drawing.Size(182, 29);
+            this.prodNameTb.Size = new System.Drawing.Size(243, 36);
             this.prodNameTb.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
             this.prodNameTb.TabIndex = 4;
             this.prodNameTb.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -529,9 +552,10 @@
             this.label3.BackColor = System.Drawing.Color.ForestGreen;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(13, 141);
+            this.label3.Location = new System.Drawing.Point(17, 174);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(55, 20);
+            this.label3.Size = new System.Drawing.Size(70, 25);
             this.label3.TabIndex = 3;
             this.label3.Text = "NAME";
             // 
@@ -563,33 +587,34 @@
             this.prodIdTb.IconRight = null;
             this.prodIdTb.IconRightCursor = System.Windows.Forms.Cursors.IBeam;
             this.prodIdTb.Lines = new string[0];
-            this.prodIdTb.Location = new System.Drawing.Point(118, 82);
+            this.prodIdTb.Location = new System.Drawing.Point(157, 101);
+            this.prodIdTb.Margin = new System.Windows.Forms.Padding(4);
             this.prodIdTb.MaxLength = 32767;
             this.prodIdTb.MinimumSize = new System.Drawing.Size(1, 1);
             this.prodIdTb.Modified = false;
             this.prodIdTb.Multiline = false;
             this.prodIdTb.Name = "prodIdTb";
-            stateProperties13.BorderColor = System.Drawing.Color.DodgerBlue;
-            stateProperties13.FillColor = System.Drawing.Color.Empty;
-            stateProperties13.ForeColor = System.Drawing.Color.Empty;
-            stateProperties13.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodIdTb.OnActiveState = stateProperties13;
-            stateProperties14.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
-            stateProperties14.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
-            stateProperties14.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
-            stateProperties14.PlaceholderForeColor = System.Drawing.Color.DarkGray;
-            this.prodIdTb.OnDisabledState = stateProperties14;
-            stateProperties15.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
-            stateProperties15.FillColor = System.Drawing.Color.Empty;
-            stateProperties15.ForeColor = System.Drawing.Color.Empty;
-            stateProperties15.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodIdTb.OnHoverState = stateProperties15;
-            stateProperties16.BorderColor = System.Drawing.Color.Transparent;
-            stateProperties16.FillColor = System.Drawing.Color.White;
-            stateProperties16.ForeColor = System.Drawing.Color.ForestGreen;
-            stateProperties16.PlaceholderForeColor = System.Drawing.Color.Empty;
-            this.prodIdTb.OnIdleState = stateProperties16;
-            this.prodIdTb.Padding = new System.Windows.Forms.Padding(3);
+            stateProperties61.BorderColor = System.Drawing.Color.DodgerBlue;
+            stateProperties61.FillColor = System.Drawing.Color.Empty;
+            stateProperties61.ForeColor = System.Drawing.Color.Empty;
+            stateProperties61.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodIdTb.OnActiveState = stateProperties61;
+            stateProperties62.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(204)))), ((int)(((byte)(204)))), ((int)(((byte)(204)))));
+            stateProperties62.FillColor = System.Drawing.Color.FromArgb(((int)(((byte)(240)))), ((int)(((byte)(240)))), ((int)(((byte)(240)))));
+            stateProperties62.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(109)))), ((int)(((byte)(109)))), ((int)(((byte)(109)))));
+            stateProperties62.PlaceholderForeColor = System.Drawing.Color.DarkGray;
+            this.prodIdTb.OnDisabledState = stateProperties62;
+            stateProperties63.BorderColor = System.Drawing.Color.FromArgb(((int)(((byte)(105)))), ((int)(((byte)(181)))), ((int)(((byte)(255)))));
+            stateProperties63.FillColor = System.Drawing.Color.Empty;
+            stateProperties63.ForeColor = System.Drawing.Color.Empty;
+            stateProperties63.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodIdTb.OnHoverState = stateProperties63;
+            stateProperties64.BorderColor = System.Drawing.Color.Transparent;
+            stateProperties64.FillColor = System.Drawing.Color.White;
+            stateProperties64.ForeColor = System.Drawing.Color.ForestGreen;
+            stateProperties64.PlaceholderForeColor = System.Drawing.Color.Empty;
+            this.prodIdTb.OnIdleState = stateProperties64;
+            this.prodIdTb.Padding = new System.Windows.Forms.Padding(4);
             this.prodIdTb.PasswordChar = '\0';
             this.prodIdTb.PlaceholderForeColor = System.Drawing.Color.DarkGray;
             this.prodIdTb.PlaceholderText = "Enter product id";
@@ -599,7 +624,7 @@
             this.prodIdTb.SelectionLength = 0;
             this.prodIdTb.SelectionStart = 0;
             this.prodIdTb.ShortcutsEnabled = true;
-            this.prodIdTb.Size = new System.Drawing.Size(182, 29);
+            this.prodIdTb.Size = new System.Drawing.Size(243, 36);
             this.prodIdTb.Style = Bunifu.UI.WinForms.BunifuTextBox._Style.Bunifu;
             this.prodIdTb.TabIndex = 2;
             this.prodIdTb.TextAlign = System.Windows.Forms.HorizontalAlignment.Left;
@@ -616,9 +641,10 @@
             this.label2.BackColor = System.Drawing.Color.ForestGreen;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(13, 91);
+            this.label2.Location = new System.Drawing.Point(17, 112);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(26, 20);
+            this.label2.Size = new System.Drawing.Size(31, 25);
             this.label2.TabIndex = 1;
             this.label2.Text = "ID";
             // 
@@ -628,9 +654,10 @@
             this.label1.BackColor = System.Drawing.Color.ForestGreen;
             this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(315, 26);
+            this.label1.Location = new System.Drawing.Point(420, 32);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(252, 26);
+            this.label1.Size = new System.Drawing.Size(307, 31);
             this.label1.TabIndex = 0;
             this.label1.Text = "MANAGE PRODUCTS";
             // 
@@ -640,26 +667,14 @@
             this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button2.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button2.ForeColor = System.Drawing.Color.ForestGreen;
-            this.button2.Location = new System.Drawing.Point(2, 162);
+            this.button2.Location = new System.Drawing.Point(3, 199);
+            this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(114, 45);
+            this.button2.Size = new System.Drawing.Size(152, 55);
             this.button2.TabIndex = 2;
             this.button2.Text = "Categories";
             this.button2.UseVisualStyleBackColor = true;
             this.button2.Click += new System.EventHandler(this.button2_Click);
-            // 
-            // button3
-            // 
-            this.button3.FlatAppearance.BorderSize = 0;
-            this.button3.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button3.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button3.ForeColor = System.Drawing.Color.ForestGreen;
-            this.button3.Location = new System.Drawing.Point(12, 214);
-            this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(101, 45);
-            this.button3.TabIndex = 3;
-            this.button3.Text = "Selling";
-            this.button3.UseVisualStyleBackColor = true;
             // 
             // button5
             // 
@@ -667,26 +682,55 @@
             this.button5.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button5.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button5.ForeColor = System.Drawing.Color.ForestGreen;
-            this.button5.Location = new System.Drawing.Point(896, 2);
+            this.button5.Location = new System.Drawing.Point(1195, 2);
+            this.button5.Margin = new System.Windows.Forms.Padding(4);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(48, 38);
+            this.button5.Size = new System.Drawing.Size(64, 47);
             this.button5.TabIndex = 12;
             this.button5.Text = "X";
             this.button5.UseVisualStyleBackColor = true;
             this.button5.Click += new System.EventHandler(this.button5_Click);
             // 
+            // smarketdbDataSet
+            // 
+            this.smarketdbDataSet.DataSetName = "smarketdbDataSet";
+            this.smarketdbDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // categoryTblBindingSource
+            // 
+            this.categoryTblBindingSource.DataMember = "CategoryTbl";
+            this.categoryTblBindingSource.DataSource = this.smarketdbDataSet;
+            // 
+            // categoryTblTableAdapter
+            // 
+            this.categoryTblTableAdapter.ClearBeforeFill = true;
+            // 
+            // label7
+            // 
+            this.label7.AutoSize = true;
+            this.label7.BackColor = System.Drawing.Color.ForestGreen;
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.label7.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.label7.Location = new System.Drawing.Point(35, 542);
+            this.label7.Name = "label7";
+            this.label7.Size = new System.Drawing.Size(72, 25);
+            this.label7.TabIndex = 28;
+            this.label7.Text = "Logout";
+            this.label7.Click += new System.EventHandler(this.label7_Click);
+            // 
             // ProductForm
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
-            this.ClientSize = new System.Drawing.Size(945, 590);
+            this.ClientSize = new System.Drawing.Size(1260, 726);
+            this.Controls.Add(this.label7);
             this.Controls.Add(this.button5);
-            this.Controls.Add(this.button3);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.panel1);
             this.Controls.Add(this.button1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "ProductForm";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ProductForm";
@@ -694,7 +738,10 @@
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.ProdDGV)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.smarketdbDataSet)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.categoryTblBindingSource)).EndInit();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -703,7 +750,6 @@
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Panel panel1;
         private System.Windows.Forms.Button button2;
-        private System.Windows.Forms.Button button3;
         private System.Windows.Forms.Button button5;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
@@ -722,5 +768,9 @@
         private Guna.UI2.WinForms.Guna2DataGridView ProdDGV;
         private System.Windows.Forms.ComboBox comboBox1;
         private System.Windows.Forms.Button button8;
+        private smarketdbDataSet smarketdbDataSet;
+        private System.Windows.Forms.BindingSource categoryTblBindingSource;
+        private smarketdbDataSetTableAdapters.CategoryTblTableAdapter categoryTblTableAdapter;
+        private System.Windows.Forms.Label label7;
     }
 }

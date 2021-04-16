@@ -18,7 +18,7 @@ namespace Supermarket
             InitializeComponent();
         }
 
-        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\afiff\OneDrive\Documents\smarketdb.mdf;Integrated Security=True;Connect Timeout=30");
+        SqlConnection Con = new SqlConnection(@"Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\LENOVO\Documents\smarketdb.mdf;Integrated Security=True;Connect Timeout=30");
         private void CatAddBtn_Click(object sender, EventArgs e)
         {
             try
@@ -126,6 +126,13 @@ namespace Supermarket
             SellerForm seller = new SellerForm();
             seller.Show();
             this.Hide();
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+            this.Hide();
+            Form1 login = new Form1();
+            login.Show();
         }
     }
 }
